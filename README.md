@@ -1,4 +1,4 @@
-<h2>
+<h2 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Developers+👋;+I'm+Amin+Sheikh!;glad+you+are+heare+💙;" />
 </h2>
 
@@ -17,7 +17,7 @@ Let's connect and collaborate on some amazing projects together! 🚀✨
 <br/>
 <hr/>
 
-<div align="left">
+<div align="center">
     <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,bootstrap,tailwind" />
     <br />
     <br />
