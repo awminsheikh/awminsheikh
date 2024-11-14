@@ -2,8 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Developers+👋;+I'm+Amin+Sheikh!;glad+you+are+heare+💙;" />
 </h2>
 <div align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=taisprestes01&show_icons=true&locale=en" alt="taisprestes01" width="400" height="160"/>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=taisprestes01&" alt="taisprestes01" width="405" />
+<img  src="https://github-readme-stats.vercel.app/api?username=awminsheikh&show_icons=true&locale=en" alt="awminsheikh" width="400" height="160"/>
 </div>    
 <br>
 <P>
