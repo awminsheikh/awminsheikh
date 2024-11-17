@@ -21,8 +21,5 @@ Let's connect and collaborate on some amazing projects together! 🚀✨
 <hr/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,bootstrap,tailwind" />
-    <br />
-    <br />
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vite,ae,ps,pr,figma" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,rust,mongo,git,github,docker,vite" />
 </div>
